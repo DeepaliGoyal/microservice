@@ -1,4 +1,4 @@
 server:
   port: 8081
 custom:
-  message: Hello updated
+  message: Hii Customer
