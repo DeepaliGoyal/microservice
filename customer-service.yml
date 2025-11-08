@@ -1,0 +1,4 @@
+server:
+  port: 8081
+custom:
+  message: Hello from Git-based Config!
